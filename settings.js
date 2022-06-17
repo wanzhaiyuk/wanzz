@@ -19,18 +19,18 @@ global.available = false //status online (online)
 
 // Other
 global.botname = "wnzzz-Mdོ" //namabot kalian
-global.ownername= "wnz gatneng😏😅" //nama kalian
+global.ownername= "wnzXyz🇮🇩" //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
 global.github = "https://zeeone-ofc.github.io/" //bebas
 global.email = "wnzzgntg@gmail.com" //bebas
-global.region = "japan" //bebas
+global.region = "Jepang" //bebas
 global.ownernomer = "6285770577218" // nomor wa kalian
 global.ownernomerr = "+6285770577218" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["62887435047326","62887435047326","6285770577218"] //ganti agar fitur owner bisa di gunakan
+global.owner = ["6285770577218","62887435047326","6285770577218"] //ganti agar fitur owner bisa di gunakan
 global.packname = '© wnzz bot-Mdོ' //sticker wm ubah
 global.author = 'Di Buat Oleh dodo lovers' //sticker wm ganti nama kalian
 global.sessionName = 'session'
